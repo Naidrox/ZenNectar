@@ -1,8 +1,8 @@
 @media (prefers-color-scheme: dark) {
   :root {
-    --zen-colors-primary: #437030 !important;
-    --zen-colors-secondary: #407A27 !important;
-    --zen-colors-tertiary: #14210E !important;
+    --zen-colors-primary: #801051 !important;
+    --zen-colors-secondary: #FF2D76 !important;
+    --zen-colors-tertiary: #FFAB00 !important;
     --zen-colors-border: #2B471F !important;
     --zen-primary-color: #407A27 !important;
     --zen-dialog-background: #0D160A !important;
